@@ -1,5 +1,5 @@
 require('dotenv').config();
-require('cors');
+
 
 const server = require('./server.js');
 
